@@ -2,8 +2,8 @@ const settings = {
   "name": "hello-test-frontity",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
+      "url": "https://arreglosdepcs.000webhostapp.com/",
+      "title": "Blog de Arreglos de PCS",
       "description": "WordPress installation for Frontity development"
     }
   },
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://arreglosdepcs.000webhostapp.com/"
         }
       }
     },
