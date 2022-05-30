@@ -2,9 +2,9 @@ const settings = {
   "name": "hello-test-frontity",
   "state": {
     "frontity": {
-      "url": "https://arreglosdepcs.000webhostapp.com/",
-      "title": "Blog de Arreglos de PCS",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://www.liftpartsfl.com/",
+      "title": "Rox mamaverga mira",
+      "description": "WordPress installation for Frontity tidi izi el development"
     }
   },
   "packages": [
@@ -18,20 +18,20 @@ const settings = {
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Use equiped o algo asi no te entiendo es oxd ",
+              "/product-category/used-material-handlings-equipments/"
             ],
             [
-              "Travel",
-              "/category/travel/"
+              "Brakes",
+              "/product-category/brakes/"
             ],
             [
-              "Japan",
-              "/tag/japan/"
+              "Cooling",
+              "/product-category/cooling/"
             ],
             [
-              "About Us",
-              "/about-us/"
+              "electrical",
+              "/product-category/electrical/"
             ]
           ],
           "featured": {
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://arreglosdepcs.000webhostapp.com/"
+          "url": "https://www.liftpartsfl.com/"
         }
       }
     },
